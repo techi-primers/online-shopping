@@ -58,7 +58,7 @@
 
 				<div class="row">
                 	<div class="col-xs-12">
-                		<h3>Our Most Viewed Products</h3>
+                		<h3>Most Viewed Products</h3>
                 		<hr/>
                 	</div>
                 </div>
@@ -89,7 +89,7 @@
 				
 				<div class="row">
                 	<div class="col-xs-12">
-                		<h3>Our Most Purchased Products</h3>
+                		<h3>Most Purchased Products</h3>
                 		<hr/>
                 	</div>
                 </div>
