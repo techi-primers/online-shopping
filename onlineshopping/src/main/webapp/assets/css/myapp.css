@@ -11,12 +11,12 @@ html {
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     height:100%;
-    background-color: lightblue;
+    background-color: #e3e0cf;
 }
 
 .slide-image {
     width: 100%;
-    background-color: maroon;
+    background-color: #c5d5cb;
 }
 
 .carousel-holder {
@@ -49,7 +49,7 @@ body {
 
 .thumbnail {
     padding: 0;
-    background-color: orange;
+    background-color: #c5d5cb;
 }
 
 .thumbnail .caption-full {
@@ -130,7 +130,7 @@ footer {
   width: 26px;
   left: 4px;
   bottom: 4px;
-  background-color: yellow;
+  background-color: #FFD6C4;
   -webkit-transition: .4s;
   transition: .4s;
 }
@@ -244,7 +244,7 @@ input:checked + .slider:before {
 }
 
 .lead {
-	color:green;
+	color:blue;
 	text-shadow: 2px 2px;
 	font-family: "Copperplate", Times, serif;
 	font-size: 35px;
@@ -255,10 +255,19 @@ input:checked + .slider:before {
 }
 
 .list-group-item{
-	background-color: lightseagreen;
+	background-color: #9fa8a3;
 }
 
 navbar {background-color: lightseagreen;}
+
+.nabar{
+	background-color: lightseagreen;
+}
+
+.navcolor{
+	color: white;
+}
+
 
 
 

@@ -14,7 +14,7 @@
 
 		<div class="col-md-offset-2 col-md-8">
 
-			<div class="panel panel-primary">
+			<div class="panel panel-primary bg-info">
 
 				<div class="panel-heading">
 
