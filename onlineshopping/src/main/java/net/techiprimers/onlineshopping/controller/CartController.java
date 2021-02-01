@@ -78,6 +78,7 @@ public class CartController {
 	
 	@RequestMapping("/{cartLineId}/remove")
 	public String removeCartLine(@PathVariable int cartLineId) {
+		System.out.println("remove cartline");
 		String response = cartService.removeCartLine(cartLineId);
 		return "redirect:/cart/show?"+response;
 	}
